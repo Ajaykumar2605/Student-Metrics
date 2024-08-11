@@ -15,3 +15,5 @@ Student Metrics is a desktop application built with Python and Tkinter for manag
 - Tkinter
 - Openpyxl
 - Xlrd
+- Pillow
+- Requests 
