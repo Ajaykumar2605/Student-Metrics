@@ -1,0 +1,4 @@
+pyinstaller --onefile --noconsole --icon="C:\\Users\\AJAY KUMAR M\\Desktop\\StudentMetrics\\source Files\\icon\\Appicon.ico" StudentMetrics.py
+
+
+pyinstaller --onefile --noconsole --icon="C:\\Users\\AJAY KUMAR M\\Desktop\\StudentMetrics\\source Files\\icon\\Appicon.ico" "StudentMetrics.py"
